@@ -38,5 +38,5 @@ A comprehensive Java console application for managing campus courses, student re
 
 ## Enabling Assertions
 ```bash
-# text change
+
 java -ea CCRMMain
