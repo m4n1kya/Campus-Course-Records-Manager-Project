@@ -36,8 +36,7 @@ A comprehensive Java console application for managing campus courses, student re
 4. Add JDK bin to PATH
 5. Verify with `java -version`
 
-Test change for PR
 ## Enabling Assertions
 ```bash
-# text change
+
 java -ea CCRMMain
